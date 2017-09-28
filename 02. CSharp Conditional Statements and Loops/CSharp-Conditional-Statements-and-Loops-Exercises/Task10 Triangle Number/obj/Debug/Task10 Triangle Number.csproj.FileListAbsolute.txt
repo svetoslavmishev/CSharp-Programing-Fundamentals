@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task10 Triangle Number\bin\Debug\Task10 Triangle Number.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task10 Triangle Number\bin\Debug\Task10 Triangle Number.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task10 Triangle Number\bin\Debug\Task10 Triangle Number.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task10 Triangle Number\obj\Debug\Task10 Triangle Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task10 Triangle Number\obj\Debug\Task10 Triangle Number.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task10 Triangle Number\obj\Debug\Task10 Triangle Number.pdb

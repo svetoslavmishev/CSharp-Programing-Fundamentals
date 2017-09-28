@@ -1,0 +1,14 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\bin\Debug\Task1 Passed.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\bin\Debug\Task1 Passed.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\bin\Debug\Task1 Passed.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\obj\Debug\Task1 Passed.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\obj\Debug\Task1 Passed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\obj\Debug\Task1 Passed.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task1 Passed\obj\Debug\Task1 Passed.pdb
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\bin\Debug\Task1 Passed.exe.config
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\bin\Debug\Task1 Passed.exe
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\bin\Debug\Task1 Passed.pdb
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\obj\Debug\Task1 Passed.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\obj\Debug\Task1 Passed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\obj\Debug\Task1 Passed.exe
+D:\SoftUni\Tech Module - Sptember 2017\Programing Fundamentals - September 2017\02_CSharp-Conditional-Statements-and-Loops\CSharp-Conditional-Statements-and-Loops-Lab\Task1 Passed\obj\Debug\Task1 Passed.pdb

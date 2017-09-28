@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task14 Magic Letter\obj\Debug\Task14 Magic Letter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task14 Magic Letter\bin\Debug\Task14 Magic Letter.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task14 Magic Letter\bin\Debug\Task14 Magic Letter.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task14 Magic Letter\bin\Debug\Task14 Magic Letter.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task14 Magic Letter\obj\Debug\Task14 Magic Letter.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task14 Magic Letter\obj\Debug\Task14 Magic Letter.pdb

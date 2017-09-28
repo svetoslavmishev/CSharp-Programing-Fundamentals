@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\bin\Debug\Task8 Calories Counter.exe.config
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\bin\Debug\Task8 Calories Counter.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\bin\Debug\Task8 Calories Counter.pdb
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\obj\Debug\Task8 Calories Counter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\obj\Debug\Task8 Calories Counter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\obj\Debug\Task8 Calories Counter.exe
+D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task8 Calories Counter\obj\Debug\Task8 Calories Counter.pdb
