@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task3 Exact Sum of Real Nums\bin\Debug\Task3 Exact Sum of Real Nums.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task3 Exact Sum of Real Nums\bin\Debug\Task3 Exact Sum of Real Nums.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task3 Exact Sum of Real Nums\bin\Debug\Task3 Exact Sum of Real Nums.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task3 Exact Sum of Real Nums\obj\Debug\Task3 Exact Sum of Real Nums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task3 Exact Sum of Real Nums\obj\Debug\Task3 Exact Sum of Real Nums.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task3 Exact Sum of Real Nums\obj\Debug\Task3 Exact Sum of Real Nums.pdb

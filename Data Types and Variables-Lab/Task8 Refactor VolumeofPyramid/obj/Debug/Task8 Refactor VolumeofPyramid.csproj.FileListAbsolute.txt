@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task8 Refactor VolumeofPyramid\bin\Debug\Task8 Refactor VolumeofPyramid.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task8 Refactor VolumeofPyramid\bin\Debug\Task8 Refactor VolumeofPyramid.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task8 Refactor VolumeofPyramid\bin\Debug\Task8 Refactor VolumeofPyramid.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task8 Refactor VolumeofPyramid\obj\Debug\Task8 Refactor VolumeofPyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task8 Refactor VolumeofPyramid\obj\Debug\Task8 Refactor VolumeofPyramid.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task8 Refactor VolumeofPyramid\obj\Debug\Task8 Refactor VolumeofPyramid.pdb

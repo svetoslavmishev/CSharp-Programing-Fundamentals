@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\bin\Debug\Task1 Centuries to Minutes.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\bin\Debug\Task1 Centuries to Minutes.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\bin\Debug\Task1 Centuries to Minutes.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\obj\Debug\Task1 Centuries to Minutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\obj\Debug\Task1 Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\obj\Debug\Task1 Centuries to Minutes.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task1 Centuries to Minutes\obj\Debug\Task1 Centuries to Minutes.pdb

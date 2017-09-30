@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task6 Triples of Latin Letters\bin\Debug\Task6 Triples of Latin Letters.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task6 Triples of Latin Letters\bin\Debug\Task6 Triples of Latin Letters.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task6 Triples of Latin Letters\bin\Debug\Task6 Triples of Latin Letters.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task6 Triples of Latin Letters\obj\Debug\Task6 Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task6 Triples of Latin Letters\obj\Debug\Task6 Triples of Latin Letters.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task6 Triples of Latin Letters\obj\Debug\Task6 Triples of Latin Letters.pdb
