@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csprojResolveAssemblyReference.cache

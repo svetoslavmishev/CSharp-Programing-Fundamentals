@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\03. Characters and Strings\bin\Debug\_03.Characters_and_Strings.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\03. Characters and Strings\bin\Debug\_03.Characters_and_Strings.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\03. Characters and Strings\bin\Debug\_03.Characters_and_Strings.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\03. Characters and Strings\obj\Debug\03. Characters and Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\03. Characters and Strings\obj\Debug\_03.Characters_and_Strings.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\03. Characters and Strings\obj\Debug\_03.Characters_and_Strings.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\15. Fast Prime Checker-Refact\bin\Debug\_15.Fast_Prime_Checker_Refact.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\15. Fast Prime Checker-Refact\bin\Debug\_15.Fast_Prime_Checker_Refact.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\15. Fast Prime Checker-Refact\bin\Debug\_15.Fast_Prime_Checker_Refact.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\15. Fast Prime Checker-Refact\obj\Debug\15. Fast Prime Checker-Refact.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\15. Fast Prime Checker-Refact\obj\Debug\_15.Fast_Prime_Checker_Refact.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\15. Fast Prime Checker-Refact\obj\Debug\_15.Fast_Prime_Checker_Refact.pdb

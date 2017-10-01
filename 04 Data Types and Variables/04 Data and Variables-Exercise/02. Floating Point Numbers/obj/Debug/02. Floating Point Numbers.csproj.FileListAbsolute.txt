@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\bin\Debug\_02.Floating_Point_Numbers.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\bin\Debug\_02.Floating_Point_Numbers.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\bin\Debug\_02.Floating_Point_Numbers.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\obj\Debug\02. Floating Point Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\obj\Debug\_02.Floating_Point_Numbers.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\obj\Debug\_02.Floating_Point_Numbers.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\02. Floating Point Numbers\obj\Debug\02. Floating Point Numbers.csprojResolveAssemblyReference.cache

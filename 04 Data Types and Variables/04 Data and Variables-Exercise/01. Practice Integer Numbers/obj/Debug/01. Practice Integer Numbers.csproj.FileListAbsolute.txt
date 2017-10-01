@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\bin\Debug\_01.Practice_Integer_Numbers.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\bin\Debug\_01.Practice_Integer_Numbers.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\bin\Debug\_01.Practice_Integer_Numbers.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\obj\Debug\01. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\obj\Debug\01. Practice Integer Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\obj\Debug\_01.Practice_Integer_Numbers.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\01. Practice Integer Numbers\obj\Debug\_01.Practice_Integer_Numbers.pdb

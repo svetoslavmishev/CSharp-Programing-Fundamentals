@@ -1,0 +1,7 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\obj\Debug\19. Thea the Photographer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\obj\Debug\_19.Thea_the_Photographer.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\obj\Debug\_19.Thea_the_Photographer.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\19. Thea the Photographer\obj\Debug\19. Thea the Photographer.csprojResolveAssemblyReference.cache

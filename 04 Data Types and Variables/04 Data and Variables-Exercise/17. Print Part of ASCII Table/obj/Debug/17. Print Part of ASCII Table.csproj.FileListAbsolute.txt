@@ -1,0 +1,6 @@
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\17. Print Part of ASCII Table\bin\Debug\_17.Print_Part_of_ASCII_Table.exe.config
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\17. Print Part of ASCII Table\bin\Debug\_17.Print_Part_of_ASCII_Table.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\17. Print Part of ASCII Table\bin\Debug\_17.Print_Part_of_ASCII_Table.pdb
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\17. Print Part of ASCII Table\obj\Debug\17. Print Part of ASCII Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\17. Print Part of ASCII Table\obj\Debug\_17.Print_Part_of_ASCII_Table.exe
+D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\17. Print Part of ASCII Table\obj\Debug\_17.Print_Part_of_ASCII_Table.pdb
