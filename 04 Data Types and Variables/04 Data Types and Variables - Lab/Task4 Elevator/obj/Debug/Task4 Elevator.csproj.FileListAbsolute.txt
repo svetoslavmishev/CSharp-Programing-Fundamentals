@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\bin\Debug\Task4 Elevator.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\bin\Debug\Task4 Elevator.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\bin\Debug\Task4 Elevator.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\obj\Debug\Task4 Elevator.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\obj\Debug\Task4 Elevator.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\obj\Debug\Task4 Elevator.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task4 Elevator\obj\Debug\Task4 Elevator.pdb

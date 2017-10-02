@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\18. Different Integers Size\obj\Debug\18. Different Integers Size.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb

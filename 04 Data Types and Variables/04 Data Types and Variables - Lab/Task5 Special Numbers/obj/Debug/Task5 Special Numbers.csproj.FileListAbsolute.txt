@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task5 Special Numbers\bin\Debug\Task5 Special Numbers.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task5 Special Numbers\bin\Debug\Task5 Special Numbers.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task5 Special Numbers\bin\Debug\Task5 Special Numbers.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task5 Special Numbers\obj\Debug\Task5 Special Numbers.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task5 Special Numbers\obj\Debug\Task5 Special Numbers.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task5 Special Numbers\obj\Debug\Task5 Special Numbers.pdb

@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task2 Circle Area\bin\Debug\Task2 Circle Area.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task2 Circle Area\bin\Debug\Task2 Circle Area.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task2 Circle Area\bin\Debug\Task2 Circle Area.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task2 Circle Area\obj\Debug\Task2 Circle Area.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task2 Circle Area\obj\Debug\Task2 Circle Area.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task2 Circle Area\obj\Debug\Task2 Circle Area.pdb

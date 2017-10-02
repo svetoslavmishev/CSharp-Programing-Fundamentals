@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\bin\Debug\Task3 Back in 30 Minutes.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\bin\Debug\Task3 Back in 30 Minutes.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\bin\Debug\Task3 Back in 30 Minutes.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\obj\Debug\Task3 Back in 30 Minutes.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\obj\Debug\Task3 Back in 30 Minutes.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\obj\Debug\Task3 Back in 30 Minutes.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task3 Back in 30 Minutes\obj\Debug\Task3 Back in 30 Minutes.pdb

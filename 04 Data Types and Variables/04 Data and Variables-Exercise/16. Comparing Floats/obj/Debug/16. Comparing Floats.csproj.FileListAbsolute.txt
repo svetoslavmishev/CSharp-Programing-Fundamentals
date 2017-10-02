@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\obj\Debug\16. Comparing Floats.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\bin\Debug\_16.Comparing_Floats.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\obj\Debug\16. Comparing Floats.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\obj\Debug\_16.Comparing_Floats.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\16. Comparing Floats\obj\Debug\_16.Comparing_Floats.pdb

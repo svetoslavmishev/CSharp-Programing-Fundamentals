@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb

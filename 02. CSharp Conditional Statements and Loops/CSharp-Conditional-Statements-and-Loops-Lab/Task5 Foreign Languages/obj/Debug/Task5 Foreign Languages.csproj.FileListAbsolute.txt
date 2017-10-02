@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task5 Foreign Languages\bin\Debug\Task5 Foreign Languages.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task5 Foreign Languages\bin\Debug\Task5 Foreign Languages.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task5 Foreign Languages\bin\Debug\Task5 Foreign Languages.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task5 Foreign Languages\obj\Debug\Task5 Foreign Languages.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task5 Foreign Languages\obj\Debug\Task5 Foreign Languages.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task5 Foreign Languages\obj\Debug\Task5 Foreign Languages.pdb

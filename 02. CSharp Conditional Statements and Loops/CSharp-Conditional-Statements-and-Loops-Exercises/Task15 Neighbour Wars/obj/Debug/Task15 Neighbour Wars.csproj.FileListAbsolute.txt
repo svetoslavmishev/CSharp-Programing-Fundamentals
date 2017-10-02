@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task15 Neighbour Wars\obj\Debug\Task15 Neighbour Wars.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task15 Neighbour Wars\bin\Debug\Task15 Neighbour Wars.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task15 Neighbour Wars\bin\Debug\Task15 Neighbour Wars.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task15 Neighbour Wars\bin\Debug\Task15 Neighbour Wars.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task15 Neighbour Wars\obj\Debug\Task15 Neighbour Wars.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task15 Neighbour Wars\obj\Debug\Task15 Neighbour Wars.pdb

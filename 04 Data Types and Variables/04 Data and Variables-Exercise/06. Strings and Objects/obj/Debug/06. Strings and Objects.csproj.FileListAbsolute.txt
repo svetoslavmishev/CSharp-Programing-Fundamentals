@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\06. Strings and Objects\obj\Debug\06. Strings and Objects.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

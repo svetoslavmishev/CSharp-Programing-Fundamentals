@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\bin\Debug\Task5 Word in Plural.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\bin\Debug\Task5 Word in Plural.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\bin\Debug\Task5 Word in Plural.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\obj\Debug\Task5 Word in Plural.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\obj\Debug\Task5 Word in Plural.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\obj\Debug\Task5 Word in Plural.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task5 Word in Plural\obj\Debug\Task5 Word in Plural.pdb

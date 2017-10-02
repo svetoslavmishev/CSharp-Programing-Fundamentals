@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\07. Exchange Variable Values\obj\Debug\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

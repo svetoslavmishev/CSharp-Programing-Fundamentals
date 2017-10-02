@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\bin\Debug\Task 9 Count Integers.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\bin\Debug\Task 9 Count Integers.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\bin\Debug\Task 9 Count Integers.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\obj\Debug\Task 9 Count Integers.csprojResolveAssemblyReference.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\obj\Debug\Task 9 Count Integers.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\obj\Debug\Task 9 Count Integers.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task 9 Count Integers\obj\Debug\Task 9 Count Integers.pdb

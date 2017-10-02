@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task4 Month Printer\bin\Debug\Task4 Month Printer.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task4 Month Printer\bin\Debug\Task4 Month Printer.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task4 Month Printer\bin\Debug\Task4 Month Printer.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task4 Month Printer\obj\Debug\Task4 Month Printer.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task4 Month Printer\obj\Debug\Task4 Month Printer.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Conditional Statements and Loops_Lab_23.09.2017\Task4 Month Printer\obj\Debug\Task4 Month Printer.pdb

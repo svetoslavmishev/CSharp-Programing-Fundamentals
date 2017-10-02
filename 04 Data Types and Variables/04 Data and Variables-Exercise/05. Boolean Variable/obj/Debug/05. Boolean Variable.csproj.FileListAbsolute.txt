@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\05. Boolean Variable\obj\Debug\05. Boolean Variable.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

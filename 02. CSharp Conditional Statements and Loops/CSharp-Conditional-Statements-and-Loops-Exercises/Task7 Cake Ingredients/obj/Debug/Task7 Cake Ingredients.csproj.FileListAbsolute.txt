@@ -1,7 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\bin\Debug\Task7 Cake Ingredients.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\bin\Debug\Task7 Cake Ingredients.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\bin\Debug\Task7 Cake Ingredients.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\obj\Debug\Task7 Cake Ingredients.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\obj\Debug\Task7 Cake Ingredients.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\obj\Debug\Task7 Cake Ingredients.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task7 Cake Ingredients\obj\Debug\Task7 Cake Ingredients.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task6 Interval Numbers\bin\Debug\Task6 Interval Numbers.exe.config
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task6 Interval Numbers\bin\Debug\Task6 Interval Numbers.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task6 Interval Numbers\bin\Debug\Task6 Interval Numbers.pdb
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task6 Interval Numbers\obj\Debug\Task6 Interval Numbers.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task6 Interval Numbers\obj\Debug\Task6 Interval Numbers.exe
-D:\SoftUni\Tech Module\Programing Fundamentals - September 2017\Statements and Loops _Exercises_24.09.2017\Statements and Loops\Task6 Interval Numbers\obj\Debug\Task6 Interval Numbers.pdb

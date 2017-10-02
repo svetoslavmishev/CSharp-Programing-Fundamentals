@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task9 Refactor Special Numbers\bin\Debug\Task9 Refactor Special Numbers.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task9 Refactor Special Numbers\bin\Debug\Task9 Refactor Special Numbers.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task9 Refactor Special Numbers\bin\Debug\Task9 Refactor Special Numbers.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task9 Refactor Special Numbers\obj\Debug\Task9 Refactor Special Numbers.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task9 Refactor Special Numbers\obj\Debug\Task9 Refactor Special Numbers.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data Types and Variables-Lab\Task9 Refactor Special Numbers\obj\Debug\Task9 Refactor Special Numbers.pdb

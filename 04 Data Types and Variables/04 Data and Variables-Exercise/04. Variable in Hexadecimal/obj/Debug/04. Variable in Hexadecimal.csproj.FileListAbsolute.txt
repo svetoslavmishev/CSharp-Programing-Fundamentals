@@ -1,6 +1,0 @@
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\04. Variable in Hexadecimal\bin\Debug\_04.Variable_in_Hexadecimal.exe.config
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\04. Variable in Hexadecimal\bin\Debug\_04.Variable_in_Hexadecimal.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\04. Variable in Hexadecimal\bin\Debug\_04.Variable_in_Hexadecimal.pdb
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\04. Variable in Hexadecimal\obj\Debug\04. Variable in Hexadecimal.csproj.CoreCompileInputs.cache
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\04. Variable in Hexadecimal\obj\Debug\_04.Variable_in_Hexadecimal.exe
-D:\SoftUni\Tech Module - Sept 2017\Programing Fundamentals\04. Data Types and Variables\Data and Variables-Exercise\04. Variable in Hexadecimal\obj\Debug\_04.Variable_in_Hexadecimal.pdb
