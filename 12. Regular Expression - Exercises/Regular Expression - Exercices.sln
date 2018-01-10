@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Extract Emails", "01. Extract Emails\01. Extract Emails.csproj", "{DF8CB570-EB27-4A5C-9901-740BA0E8480C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Extract Sentences by Keyword", "02. Extract Sentences by Keyword\02. Extract Sentences by Keyword.csproj", "{B52BC136-EC1C-4908-B1BC-0A3F5519673B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Camera View", "03. Camera View\03. Camera View.csproj", "{005AF18C-0905-4011-AAC2-2AF97E8E9B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Weather", "04. Weather\04. Weather.csproj", "{182ACA34-3701-4EF2-A2BE-ADD98371EE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Key Replacer", "05. Key Replacer\05. Key Replacer.csproj", "{C1C49DCE-9797-4E15-A452-F6A5A239EF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{5494C2CD-C811-461A-A5CB-1CF7C8961618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{005AF18C-0905-4011-AAC2-2AF97E8E9B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{005AF18C-0905-4011-AAC2-2AF97E8E9B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{005AF18C-0905-4011-AAC2-2AF97E8E9B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182ACA34-3701-4EF2-A2BE-ADD98371EE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182ACA34-3701-4EF2-A2BE-ADD98371EE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182ACA34-3701-4EF2-A2BE-ADD98371EE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182ACA34-3701-4EF2-A2BE-ADD98371EE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C49DCE-9797-4E15-A452-F6A5A239EF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C49DCE-9797-4E15-A452-F6A5A239EF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C49DCE-9797-4E15-A452-F6A5A239EF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C49DCE-9797-4E15-A452-F6A5A239EF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5494C2CD-C811-461A-A5CB-1CF7C8961618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5494C2CD-C811-461A-A5CB-1CF7C8961618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5494C2CD-C811-461A-A5CB-1CF7C8961618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5494C2CD-C811-461A-A5CB-1CF7C8961618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
