@@ -2,11 +2,10 @@
 
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
 
-
 <br/>
 <br/>
 
-# <p align="center"> Courses from the main program in SoftUni <p>
+# <p align="center"> Course from the main program in SoftUni <p>
 
 ### 
 The <b>”Programming Fundamentals”</b> course extends the previously gained basic coding skills from the ”Programming Basics” course at the Software University and adds additional knowledge and practical programming skills.
