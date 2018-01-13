@@ -1,5 +1,5 @@
-Courses from the main program in SoftUni
-2017/2018
+Course from the main program in SoftUni
+2017/2018 with C#
 
 
 ![alt tag]( http://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png "Description goes here")
