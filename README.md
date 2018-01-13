@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# <p align="center"> Course from the main program of software engineering program in SoftUni <p>
+# <p align="center"> Course from the main program of software engineering in SoftUni <p>
 
 ### 
 The <b>”Programming Fundamentals”</b> course extends the previously gained basic coding skills from the ”Programming Basics” course at the Software University and adds additional knowledge and practical programming skills.
